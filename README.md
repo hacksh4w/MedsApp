@@ -18,8 +18,8 @@ A MEdicine App made using react.
 
 
 ## Key Features 
-[x] - Fully Open Source
-[x] - 
+- [x] Fully Open Source
+- [x] 
 
 
 ## 🔧 Project Demo:
